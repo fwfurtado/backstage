@@ -1,5 +1,17 @@
 # @backstage/plugin-lighthouse
 
+## 0.4.14
+
+### Patch Changes
+
+- 4016f21: Remove some unused dependencies
+- Updated dependencies
+  - @backstage/plugin-catalog-react@1.9.3
+  - @backstage/catalog-model@1.4.3
+  - @backstage/core-components@0.13.9
+  - @backstage/core-plugin-api@1.8.1
+  - @backstage/plugin-lighthouse-common@0.1.4
+
 ## 0.4.13
 
 ### Patch Changes

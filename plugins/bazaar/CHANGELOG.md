@@ -1,5 +1,18 @@
 # @backstage/plugin-bazaar
 
+## 0.2.21
+
+### Patch Changes
+
+- 4016f21: Remove some unused dependencies
+- Updated dependencies
+  - @backstage/catalog-client@1.5.1
+  - @backstage/plugin-catalog-react@1.9.3
+  - @backstage/catalog-model@1.4.3
+  - @backstage/core-components@0.13.9
+  - @backstage/core-plugin-api@1.8.1
+  - @backstage/errors@1.2.3
+
 ## 0.2.20
 
 ### Patch Changes
